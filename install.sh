@@ -54,4 +54,6 @@ install_iterm2() {
 install_zsh
 install_tmux
 install_git
-install_iterm2
+if [ "$(uname -s)" = Darwin ]; then
+    install_iterm2
+fi
