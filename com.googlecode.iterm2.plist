@@ -28,6 +28,10 @@
 	<true/>
 	<key>AutoHideTmuxClientSession</key>
 	<true/>
+	<key>ClosingTmuxTabKillsTmuxWindows</key>
+	<true/>
+	<key>ClosingTmuxTabKillsTmuxWindows_selection</key>
+	<integer>1</integer>
 	<key>Default Bookmark Guid</key>
 	<string>5B312F4F-3E35-4316-BAD4-D54062D2D496</string>
 	<key>EnableDivisionView</key>
